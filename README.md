@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Expo + React<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Expo + React<br>🎯 Goals: Desenvolver em JAVA<br>🎲 Fun fact: Disposto sempre a aprender mais</p>
 
 ###
 
