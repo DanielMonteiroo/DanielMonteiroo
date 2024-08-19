@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Daniel Monteiro<br>Desenvolvedor Back End - JAVA<br>Desenvolvimento Mobile em Curso<br>HTML e CSS</p>
+<p align="left">Daniel Monteiro<br>Desenvolvedor Back End - JAVA<br>Desenvolvimento Mobile (Expo + React Native) em Curso<br>HTML e CSS</p>
 
 ###
 
