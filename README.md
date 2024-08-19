@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, tudo bem?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Expo + React<br>🎯 Goals: Desenvolver em JAVA<br>🎲 Fun fact: Disposto sempre a aprender mais</p>
+<p align="left">✨ Criando bugs desde 2018<br>📚Atualmente estudando Expo + React Native<br>🎯 Metas: Desenvolvimento Back End em JAVA<br>🎲Curiosidades: Disposto sempre a aprender mais</p>
 
 ###
 
