@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2018<br>📚Atualmente estudando Expo + React Native<br>🎯 Metas: Desenvolvimento Back End em JAVA<br>🎲Curiosidades: Disposto sempre a aprender mais</p>
+<p align="left">✨ Criando bugs desde 2018<br>📚 Atualmente estudando Expo + React Native<br>🎯 Metas: Desenvolvimento Back End em JAVA<br>🎲 Curiosidades: Disposto sempre a aprender mais</p>
 
 ###
 
