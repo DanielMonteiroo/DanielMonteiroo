@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Daniel Monteiro<br>Desenvolvedor Back End - JAVA<br>Desenvolvimento Mobile (Node.js + React Native) em Curso<br>HTML e CSS</p>
+<p align="left">Daniel Monteiro<br>Desenvolvedor Back-End - JAVA<br>Desenvolvimento Mobile (Node.js + React Native) em Curso<br>HTML e CSS</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2018<br>📚 Atualmente estudando Expo + React Native<br>🎯 Metas: Desenvolvimento Back End em JAVA<br>🎲 Curiosidades: Disposto sempre a aprender mais</p>
+<p align="left">✨ Criando bugs desde 2018<br>📚 Atualmente estudando Node.js + React Native<br>🎯 Metas: Desenvolvimento Back End em JAVA<br>🎲 Curiosidades: Disposto sempre a aprender mais</p>
 
 ###
 
