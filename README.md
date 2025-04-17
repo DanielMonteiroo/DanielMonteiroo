@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedor desde 2018<br>📚 Atualmente estudando JAVA Spring Boot e Microserviços<br>🎯 Metas: Desenvolvimento Back-End em JAVA<br>🎲 Curiosidades: Disposto sempre a aprender mais</p>
+<p align="left">✨ Desenvolvedor desde 2018<br>📚 Atualmente estudando JAVA Spring Boot e Microsserviços<br>🎯 Metas: Desenvolvimento Back-End em JAVA<br>🎲 Curiosidades: Disposto sempre a aprender mais</p>
 
 ###
 
