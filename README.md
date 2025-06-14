@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Daniel Monteiro<br>Técnico em Informática (IFBA)<br>Desenvolvedor Back-End - JAVA<br></p>
+<p align="left">Análise e Desenvolvimento de Sistemas (Unifatecie)<br></p>
 
 ###
 
